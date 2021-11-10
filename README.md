@@ -30,4 +30,4 @@ _useful resources_
 
 - [https://developer.mozilla.org/en-US/docs/Web/Web_Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
-- [https://developer.mozilla.org/en-US/docs/Web/Web_Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+- [https://css-tricks.com/an-introduction-to-web-components/](https://css-tricks.com/an-introduction-to-web-components/)
