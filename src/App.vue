@@ -1,26 +1,41 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="App">
+    <h1>
+      Web Components Cards
+      <img
+        src="@/assets/card.png"
+        alt=""
+        srcset=""
+        style="height: 32px; width: 32px"
+      />
+    </h1>
+
+    <img src="@/assets/vuejs-icon.svg" alt="" srcset="" />
+    <search-result v-bind:name-attribute="name"></search-result>
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import "./web-components/search-result.js";
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+  data() {
+    return {
+      name: "",
+    };
+  },
+};
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Share+Tech+Mono&display=swap");
+.App {
+  margin-top: 30px;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+}
+.greeting {
+  margin-top: 20px;
+}
+h1 {
+  font-family: "Major Mono Display", monospace;
 }
 </style>
