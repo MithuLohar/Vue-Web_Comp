@@ -26,7 +26,7 @@ npm run lint
 
 <hr/>
 
-<img src="https://badges.aleen42.com/src/vue.svg"/> <img src="https://badges.aleen42.com/src/javascript.svg"/> <img src="https://badges.aleen42.com/src/webpack.svg"/>
+<img src="https://badges.aleen42.com/src/vue.svg"/> <img src="https://badges.aleen42.com/src/javascript.svg"/> <img src="https://badges.aleen42.com/src/webpack.svg"/> <img src="https://badges.aleen42.com/src/node.svg"/> <img src="https://badges.aleen42.com/src/npm.svg"/>
 
 _useful resources_
 
