@@ -24,6 +24,10 @@ npm run build
 npm run lint
 ```
 
+<hr/>
+
+<img src="https://badges.aleen42.com/src/vue.svg"/> <img src="https://badges.aleen42.com/src/javascript.svg"/> <img src="https://badges.aleen42.com/src/webpack.svg"/>
+
 _useful resources_
 
 - [webcomponents.org](https://www.webcomponents.org/)
